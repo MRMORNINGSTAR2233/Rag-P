@@ -84,4 +84,4 @@ We welcome contributions from the community! To contribute to RAG-P, follow thes
 
 RAG-P is released under the MIT License. For more information, see the `LICENSE` file.
 
-For any questions or issues, please open an issue on the GitHub repository. Happy arguing! 😄
+For any questions or issues, please open an issue on the GitHub repository. Happy Coding! 😄
